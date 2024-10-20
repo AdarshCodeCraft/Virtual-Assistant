@@ -5,6 +5,6 @@
 <p>2.Easy to integrate into existing websites</p>
 <p>3.Responds to basic questions and commands</p>
 <p>4.Customizable for different use cases</p>
-<img src="C:\Users\adarsh singh\OneDrive\Personal Vault\Personal Vault\Pictures\Screenshots\Screenshot 2024-10-07 183721.png" alt="img">
+<img src="Screenshot 2024-10-07 183721.png" alt="img">
   
   
