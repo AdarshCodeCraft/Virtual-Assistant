@@ -5,3 +5,4 @@
 <p>Interactive Responses 💬: Get instant, relevant replies to your queries.</p>
 <p>Dynamic Design 🎨: A sleek and modern UI for seamless interaction.</p>
 <p>Customizable Options 🔧: Tailor the assistant’s functionalities to your needs.</p>
+<h3>📸 Screenshots</h3>
