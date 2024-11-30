@@ -6,3 +6,4 @@
 <p>Dynamic Design 🎨: A sleek and modern UI for seamless interaction.</p>
 <p>Customizable Options 🔧: Tailor the assistant’s functionalities to your needs.</p>
 <h3>📸 Screenshots</h3>
+<img sr="Screenshot 2024-11-30 203201.png" alt="Img"/>
